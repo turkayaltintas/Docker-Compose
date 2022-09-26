@@ -1,5 +1,4 @@
-# eCommerce 2022+
-Yeni e-Ticaret Sistemi
+# Docker Multi Project
 
 @turkayaltintas
 
